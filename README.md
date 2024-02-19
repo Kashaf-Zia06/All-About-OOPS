@@ -1,0 +1,1 @@
+#This folder contains all basic programs related to OOPs in C++. This is very helpful for beginners in OOPs.
